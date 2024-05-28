@@ -26,9 +26,3 @@ Explore the code within each folder (`index.html` and corresponding JavaScript f
 These animations are designed to enhance the user experience and bring a touch of interactivity to your web projects. Feel free to explore and get inspired!
 
 **Note:** This repository serves as a personal showcase and may not be comprehensive for beginners.
-
-**Additional Information (Optional):**
-
-- You can add links to your live demo or deployed portfolio website (if applicable).
-- Briefly describe the type of animations you've implemented (e.g., smooth transitions, complex effects, interactive elements).
-- Mention any design considerations or challenges you faced while building the portfolio.
