@@ -1,4 +1,4 @@
-## GSAP Animations Portfolio (Vanilla JS, HTML & Tailwind CSS)
+## GSAP (Greensock Animation Platform) Animations Portfolio (Vanilla JS, HTML & Tailwind CSS)
 
 This repository showcases my skills in creating web animations using GSAP, a powerful JavaScript animation library, along with Tailwind CSS for clean and efficient styling.
 
